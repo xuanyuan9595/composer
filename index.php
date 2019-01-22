@@ -1,4 +1,5 @@
 <?php
+include "vendor/autoload.php";
 Bootstrap::run();
 /**
  * Created by PhpStorm.
