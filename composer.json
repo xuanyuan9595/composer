@@ -1,0 +1,14 @@
+{
+    "name": "xuanyuan9595/composer",
+    "description": "just test 2",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Xiaolei Yang",
+            "email": "xuanyuan95@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
